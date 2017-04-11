@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\bin\Debug\OOP Final Project.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\bin\Debug\OOP Final Project.exe
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\bin\Debug\OOP Final Project.pdb
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP Final Project.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP_Final_Project.addMovie.resources
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP_Final_Project.Home.resources
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP_Final_Project.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP_Final_Project.Search.resources
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP Final Project.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP Final Project.exe
+c:\users\owner\documents\visual studio 2015\Projects\OOP Final Project\OOP Final Project\obj\Debug\OOP Final Project.pdb
